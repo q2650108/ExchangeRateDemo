@@ -1,0 +1,6 @@
+framework module Pods_ExchangeRateDemo {
+  umbrella header "Pods-ExchangeRateDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
